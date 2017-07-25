@@ -10,7 +10,7 @@
 namespace DevUFirstApp {
     
     
-    public partial class Default {
+    public partial class DevUFirstAppChallengeOne {
         
         /// <summary>
         /// form1 control.
@@ -22,22 +22,22 @@ namespace DevUFirstApp {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// firstNameTextBox control.
+        /// ageTextBox control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox firstNameTextBox;
+        protected global::System.Web.UI.WebControls.TextBox ageTextBox;
         
         /// <summary>
-        /// lastNameTextBox control.
+        /// moneyTextBox control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox lastNameTextBox;
+        protected global::System.Web.UI.WebControls.TextBox moneyTextBox;
         
         /// <summary>
         /// okButton control.
@@ -49,12 +49,12 @@ namespace DevUFirstApp {
         protected global::System.Web.UI.WebControls.Button okButton;
         
         /// <summary>
-        /// resultLabel1 control.
+        /// resultLabel control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label resultLabel1;
+        protected global::System.Web.UI.WebControls.Label resultLabel;
     }
 }
